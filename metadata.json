@@ -1,0 +1,6 @@
+{
+  "name": "Dành Cho Em — Một Vườn Hoa Từ Những Lời Thương",
+  "description": "Một trang web trao gửi tình cảm lãng mạn, tinh tế với vườn hoa nở rộ từ những lời yêu thương, hiệu ứng chuyển động mượt mà, thiệp thư và nhạc dịu êm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
